@@ -8,3 +8,6 @@ DataSet:1.Strawberry
         
 Uses:1.Use svmTrain() createTrainSamDescribeTxt() and createTestSamDescribeTxt() to build a model "DATA.xml"
      2.Use svmTest() to test your test DataSet
+     
+
+notes:I have also created a Qt GUI version,but it's a little difficult to build dependencies on your machine, so i don't prepare to upload the files.
